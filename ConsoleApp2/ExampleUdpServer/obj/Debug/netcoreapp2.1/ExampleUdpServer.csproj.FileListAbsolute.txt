@@ -1,0 +1,11 @@
+C:\Users\VR\source\repos\ConsoleApp2\ExampleUdpServer\bin\Debug\netcoreapp2.1\ExampleUdpServer.deps.json
+C:\Users\VR\source\repos\ConsoleApp2\ExampleUdpServer\bin\Debug\netcoreapp2.1\ExampleUdpServer.runtimeconfig.json
+C:\Users\VR\source\repos\ConsoleApp2\ExampleUdpServer\bin\Debug\netcoreapp2.1\ExampleUdpServer.runtimeconfig.dev.json
+C:\Users\VR\source\repos\ConsoleApp2\ExampleUdpServer\bin\Debug\netcoreapp2.1\ExampleUdpServer.dll
+C:\Users\VR\source\repos\ConsoleApp2\ExampleUdpServer\bin\Debug\netcoreapp2.1\ExampleUdpServer.pdb
+C:\Users\VR\source\repos\ConsoleApp2\ExampleUdpServer\obj\Debug\netcoreapp2.1\ExampleUdpServer.csprojAssemblyReference.cache
+C:\Users\VR\source\repos\ConsoleApp2\ExampleUdpServer\obj\Debug\netcoreapp2.1\ExampleUdpServer.csproj.CoreCompileInputs.cache
+C:\Users\VR\source\repos\ConsoleApp2\ExampleUdpServer\obj\Debug\netcoreapp2.1\ExampleUdpServer.AssemblyInfoInputs.cache
+C:\Users\VR\source\repos\ConsoleApp2\ExampleUdpServer\obj\Debug\netcoreapp2.1\ExampleUdpServer.AssemblyInfo.cs
+C:\Users\VR\source\repos\ConsoleApp2\ExampleUdpServer\obj\Debug\netcoreapp2.1\ExampleUdpServer.dll
+C:\Users\VR\source\repos\ConsoleApp2\ExampleUdpServer\obj\Debug\netcoreapp2.1\ExampleUdpServer.pdb

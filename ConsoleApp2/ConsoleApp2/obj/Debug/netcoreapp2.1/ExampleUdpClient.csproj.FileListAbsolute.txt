@@ -1,0 +1,11 @@
+C:\Users\VR\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ExampleUdpClient.deps.json
+C:\Users\VR\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ExampleUdpClient.runtimeconfig.json
+C:\Users\VR\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ExampleUdpClient.runtimeconfig.dev.json
+C:\Users\VR\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ExampleUdpClient.dll
+C:\Users\VR\source\repos\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\ExampleUdpClient.pdb
+C:\Users\VR\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ExampleUdpClient.csprojAssemblyReference.cache
+C:\Users\VR\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ExampleUdpClient.csproj.CoreCompileInputs.cache
+C:\Users\VR\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ExampleUdpClient.AssemblyInfoInputs.cache
+C:\Users\VR\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ExampleUdpClient.AssemblyInfo.cs
+C:\Users\VR\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ExampleUdpClient.dll
+C:\Users\VR\source\repos\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\ExampleUdpClient.pdb
